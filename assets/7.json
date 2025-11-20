@@ -1,0 +1,33 @@
+// 7.json — Pau Lee
+{
+  "name": "FUDker #7 Pau Lee",
+  "symbol": "FUDk",
+  "description": "LiLLY’s ride-or-die, OiNK's right-hand man, and Pape's business partner. Pau Lee cuts through FUD with memetics.",
+  "image": "7.png",
+  "animation_url": "7.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#7" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Male" },
+    { "trait_type": "Earrings",         "value": "None" },
+    { "trait_type": "Facial Hair",      "value": "Beard" },
+    { "trait_type": "Eyelashes",        "value": "None" },
+    { "trait_type": "Role",             "value": "FUD Slaying Memer" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Dark Japanese Turntablism" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "7.png", "type": "image/png" },
+      { "uri": "7.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

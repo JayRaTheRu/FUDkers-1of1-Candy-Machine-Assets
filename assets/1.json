@@ -1,0 +1,34 @@
+// 1.json — Viny L
+{
+  "name": "FUDker #1 Viny L",
+  "symbol": "FUDk",
+  "description": "Analog drum machine master. Viny L spins forgotten gold into FUDker anthems. Digger of crates, finder of GEMS.",
+  "image": "1.png",
+  "animation_url": "1.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#1" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Male" },
+    },
+    { "trait_type": "Earrings",         "value": "None"    },
+    { "trait_type": "Facial Hair",      "value": "Beard"   },
+    { "trait_type": "Eyelashes",        "value": "None"    },
+    { "trait_type": "Role",             "value": "Crate-Digging Gem Hunter" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Misty Japanese Psychedelic Folk" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "1.png", "type": "image/png" },
+      { "uri": "1.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}
