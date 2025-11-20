@@ -1,0 +1,27 @@
+{
+  "price": 1.0,
+  "itemsAvailable": 51,
+  "symbol": "FUDk",
+  "sellerFeeBasisPoints": 777,
+  "isMutable": true,
+  "maxEditionSupply": 0,
+  "retainAuthority": true,
+  "creators": [
+    {
+      "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc",
+      "share": 100
+    }
+  ],
+  "guards": {
+    "botTax": { "value": 0.33, "lastInstruction": true },
+    "solPayment": {
+      "value": 1.0,
+      "destination": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc"
+    }
+  },
+  "hiddenSettings": {
+    "name": "FUDker ???",
+    "uri": "placeholder.json",
+    "hash": "11111111111111111111111111111111"
+  }
+}

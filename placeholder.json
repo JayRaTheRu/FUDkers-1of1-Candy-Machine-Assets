@@ -1,0 +1,38 @@
+{
+  "name": "FUDker ???",
+  "symbol": "FUDk",
+  "description": "A stranger lurking in the Neighborhood.. Real identity will be revealed in 7 days. In the end, we're all a bunch of FUDkers.",
+  "image": "placeholder.png",
+  "animation_url": "placeholder.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    {
+      "trait_type": "Reveal",
+      "value": "Hidden"
+    }
+  ],
+  "collection": {
+    "name": "The Neighborhood FUDkers",
+    "family": "On The Blockchain"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "placeholder.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "placeholder.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc",
+        "share": 100
+      }
+    ]
+  }
+}

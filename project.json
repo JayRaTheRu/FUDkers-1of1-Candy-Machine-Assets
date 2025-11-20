@@ -1,0 +1,32 @@
+{
+  "name": "The Neighborhood FUDkers",
+  "symbol": "FUDk",
+  "description": "The original 51 FUDkers. Fortitude. Understanding. Determination. Truth-seekers chillin’ On The Blockchain. Genesis Block (2025). Third eye WIDE OPEN. CC0 – Public Domain.",
+  "image": "project.png",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "fee_recipient": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc",
+  "attributes": [
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "project.png", "type": "image/png" }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "The Neighborhood FUDkers",
+    "family": "On The Blockchain"
+  },
+  "links": {
+    "twitter": "https://twitter.com/FUDkerOTB",
+    "website": "https://JayRa.art"
+  }
+}
