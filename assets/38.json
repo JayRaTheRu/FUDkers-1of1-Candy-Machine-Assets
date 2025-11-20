@@ -1,0 +1,33 @@
+// 38.json — LiLLY (female)
+{
+  "name": "FUDker #38 LiLLY",
+  "symbol": "FUDk",
+  "description": "She chills on giant lillypads by day and plays in the trenches by night.",
+  "image": "38.png",
+  "animation_url": "38.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#38" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Female" },
+    { "trait_type": "Earrings",         "value": "Small Hoop" },
+    { "trait_type": "Facial Hair",      "value": "None" },
+    { "trait_type": "Eyelashes",        "value": "Yes" },
+    { "trait_type": "Role",             "value": "Lillypad Chillin' and Trenchin'" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Tropical Exotica Lounge" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "38.png", "type": "image/png" },
+      { "uri": "38.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

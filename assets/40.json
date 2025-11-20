@@ -1,0 +1,33 @@
+// 40.json — Peenk (female)
+{
+  "name": "FUDker #40 Peenk",
+  "symbol": "FUDk",
+  "description": "Peenk drips golden harp in a spa with pink champagne vibes. This beautiful FUDker inspires the Neighborhood to celebrate even the smallest wins in the trenches.",
+  "image": "40.png",
+  "animation_url": "40.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #", "value": "#40" },
+    { "trait_type": "Rarity", "value": "1 of 1" },
+    { "trait_type": "Gender", "value": "Female" },
+    { "trait_type": "Earrings", "value": "Star" },
+    { "trait_type": "Facial Hair", "value": "None" },
+    { "trait_type": "Eyelashes", "value": "Yes" },
+    { "trait_type": "Role", "value": "Pretty Pink, and Positive" },
+    { "trait_type": "Beat Style", "value": "Independent Hip-Hop + Smooth Golden Soul Glow" },
+    { "trait_type": "Third-Eye State", "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "40.png", "type": "image/png" },
+      { "uri": "40.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

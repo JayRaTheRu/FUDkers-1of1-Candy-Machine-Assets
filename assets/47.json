@@ -1,0 +1,33 @@
+// 47.json — BRiDGEiT (female)
+{
+  "name": "FUDker #47 BRiDGEiT",
+  "symbol": "FUDk",
+  "description": "For a small fee, BRiDGEiT can teleport you to any block in minutes. What takes a day on your own, she does in a flash.",
+  "image": "47.png",
+  "animation_url": "47.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #", "value": "#47" },
+    { "trait_type": "Rarity", "value": "1 of 1" },
+    { "trait_type": "Gender", "value": "Female" },
+    { "trait_type": "Earrings", "value": "Stud" },
+    { "trait_type": "Facial Hair", "value": "None" },
+    { "trait_type": "Eyelashes", "value": "Yes" },
+    { "trait_type": "Role", "value": "Teleporting Traveler" },
+    { "trait_type": "Beat Style", "value": "Independent Hip-Hop + Electric Fusion Fire" },
+    { "trait_type": "Third-Eye State", "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "47.png", "type": "image/png" },
+      { "uri": "47.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+// 19.json — Eva (female)
+{
+  "name": "FUDker #19 Eva",
+  "symbol": "FUDk",
+  "description": "Most innocent and pure-hearted in the Neighborhood. Eva never shorts the market—she’s a bull forever, always giving FUDkers hope.",
+  "image": "19.png",
+  "animation_url": "19.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#19" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Female" },
+    { "trait_type": "Earrings",         "value": "Heart" },
+    { "trait_type": "Facial Hair",      "value": "None" },
+    { "trait_type": "Eyelashes",        "value": "Yes" },
+    { "trait_type": "Role",             "value": "Innocence, Love, and Hope" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Mystical Celtic World Fusion" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "19.png", "type": "image/png" },
+      { "uri": "19.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}
