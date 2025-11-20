@@ -1,0 +1,33 @@
+// 34.json — Slana (female)
+{
+  "name": "FUDker #34 Slana",
+  "symbol": "FUDk",
+  "description": "Track star, fastest FUDker in the Neighborhood. Once laughed at, now most popular.",
+  "image": "34.png",
+  "animation_url": "34.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#34" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Female" },
+    { "trait_type": "Earrings",         "value": "Stud" },
+    { "trait_type": "Facial Hair",      "value": "None" },
+    { "trait_type": "Eyelashes",        "value": "Yes" },
+    { "trait_type": "Role",             "value": "Pretty, Fast, and Popular" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Atmospheric Emotional Sax" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "34.png", "type": "image/png" },
+      { "uri": "34.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

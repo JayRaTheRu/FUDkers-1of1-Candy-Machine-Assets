@@ -1,0 +1,33 @@
+// 5.json — Krypta (female)
+{
+  "name": "FUDker #5 Krypta",
+  "symbol": "FUDk",
+  "description": "She is the private key. Krypta whispers encrypted dreams in harp strings. Untouchable.",
+  "image": "5.png",
+  "animation_url": "5.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#5" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Female" },
+    { "trait_type": "Earrings",         "value": "Big Hoop" },
+    { "trait_type": "Facial Hair",      "value": "None" },
+    { "trait_type": "Eyelashes",        "value": "Yes" },
+    { "trait_type": "Role",             "value": "The Mother Of Crypto" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Crystalline Electric Harp Fusion" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "5.png", "type": "image/png" },
+      { "uri": "5.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

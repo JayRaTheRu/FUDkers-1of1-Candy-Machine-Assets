@@ -1,0 +1,33 @@
+// 30.json — DeePloy
+{
+  "name": "FUDker #30 DeePloy",
+  "symbol": "FUDk",
+  "description": "Builder in the Neighborhood. DeePloy drops CAs that go to the billies and apps the whole world uses.",
+  "image": "30.png",
+  "animation_url": "30.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #", "value": "#30" },
+    { "trait_type": "Rarity", "value": "1 of 1" },
+    { "trait_type": "Gender", "value": "Male" },
+    { "trait_type": "Earrings", "value": "None" },
+    { "trait_type": "Facial Hair", "value": "Beard" },
+    { "trait_type": "Eyelashes", "value": "None" },
+    { "trait_type": "Role", "value": "Humble Billionaire" },
+    { "trait_type": "Beat Style", "value": "Independent Hip-Hop + Fluid Jazz-Fusion Bass" },
+    { "trait_type": "Third-Eye State", "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "30.png", "type": "image/png" },
+      { "uri": "30.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

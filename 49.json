@@ -1,0 +1,33 @@
+// 49.json — BOO (female)
+{
+  "name": "FUDker #49 BOO",
+  "symbol": "FUDk",
+  "description": "Sweet but slightly sassy, this B-Girl gets down summer days on cardboard or winter nights over frozen ponds, & when she’s not spinning on her head, she’s checking charts.",
+  "image": "49.png",
+  "animation_url": "49.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #", "value": "#49" },
+    { "trait_type": "Rarity", "value": "1 of 1" },
+    { "trait_type": "Gender", "value": "Female" },
+    { "trait_type": "Earrings", "value": "Big Hoop" },
+    { "trait_type": "Facial Hair", "value": "None" },
+    { "trait_type": "Eyelashes", "value": "Yes" },
+    { "trait_type": "Role", "value": "Sweet And Sassy Head-Spinning B-Girl" },
+    { "trait_type": "Beat Style", "value": "Independent Hip-Hop + Japanese City-Pop Winter Glow" },
+    { "trait_type": "Third-Eye State", "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "49.png", "type": "image/png" },
+      { "uri": "49.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

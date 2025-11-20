@@ -1,0 +1,33 @@
+// 4.json — KiETH
+{
+  "name": "FUDker #4 KiETH",
+  "symbol": "FUDk",
+  "description": "KiETH is smooth jazz on the blockchain. Ethster’s brother. Luxury on-chain.",
+  "image": "4.png",
+  "animation_url": "4.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #",         "value": "#4" },
+    { "trait_type": "Rarity",           "value": "1 of 1" },
+    { "trait_type": "Gender",           "value": "Male" },
+    { "trait_type": "Earrings",         "value": "None" },
+    { "trait_type": "Facial Hair",      "value": "Beard" },
+    { "trait_type": "Eyelashes",        "value": "None" },
+    { "trait_type": "Role",             "value": "Luxury On The Block, Smooth Operator" },
+    { "trait_type": "Beat Style",       "value": "Independent Hip-Hop + Sophisticated Smooth Jazz-Funk" },
+    { "trait_type": "Third-Eye State",  "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights",        "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "4.png", "type": "image/png" },
+      { "uri": "4.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}

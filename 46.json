@@ -1,0 +1,33 @@
+// 46.json — HiGHR
+{
+  "name": "FUDker #46 HiGHR",
+  "symbol": "FUDk",
+  "description": "Neighborhood flower guy. HiGHR keeps his 3rd-Eye on charts while smoking phattys & making instrumentals on drum machines. He plays vinyl in reverse for hidden messages.",
+  "image": "46.png",
+  "animation_url": "46.mp4",
+  "external_url": "https://JayRa.art",
+  "seller_fee_basis_points": 777,
+  "attributes": [
+    { "trait_type": "FUDker #", "value": "#46" },
+    { "traittype": "Rarity", "value": "1 of 1" },
+    { "trait_type": "Gender", "value": "Male" },
+    { "trait_type": "Earrings", "value": "None" },
+    { "trait_type": "Facial Hair", "value": "Beard" },
+    { "trait_type": "Eyelashes", "value": "None" },
+    { "trait_type": "Role", "value": "3rd-Eye Tinfoil Hat Philosopher" },
+    { "trait_type": "Beat Style", "value": "Independent Hip-Hop + Cosmic Spiritual Jazz" },
+    { "trait_type": "Third-Eye State", "value": "WIDE OPEN" },
+    { "trait_type": "IP Rights", "value": "CC0 – Public Domain" },
+    { "trait_type": "Neighborhood Era", "value": "Genesis Block (2025)" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "46.png", "type": "image/png" },
+      { "uri": "46.mp4", "type": "video/mp4" }
+    ],
+    "category": "video",
+    "creators": [
+      { "address": "6WbBX58cHCcuhR6BPpCDXm5eRULuxwxes7jwEodTWtHc", "share": 100 }
+    ]
+  }
+}
